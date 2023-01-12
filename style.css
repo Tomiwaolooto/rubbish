@@ -1,0 +1,26 @@
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    color:#587078;
+
+} 
+p{
+    font-family: sans-serif; 
+    text-align: center;
+    color: red;
+}
+a{
+    color: #e74382;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #587078;
+}
+ui{
+    padding-top: 7cm;
+    position: sticky;
+}
+li{
+    display: inline;
+}
